@@ -61,8 +61,8 @@ The refactoring exorcise improved runtimes significantly:
 - The refactored code in this challenge produced runtimes of 1.208984 seconds for the year 2017 and 1.363281 seconds for the year 2018. 
 
 Links to the visual timer outputs of the refactored code are as follows:
-/blob/main/resources/VBA_Challenge_2017.png
-/blob/main/resources/VBA_Challenge_2018.png
+![VBA_Challenge_2017](/resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](/resources/VBA_Challenge_2018.png)
 
 - The refactored code produced improved runtimes of 0.546875 seconds for the 2017 analysis and 0.253907 seconds for the 2018 analysis.
 
